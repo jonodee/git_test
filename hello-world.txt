@@ -1,0 +1,2 @@
+hello world, I am learning about the command line and git and git is a silly 
+name for a computer program huh? 
